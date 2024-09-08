@@ -1,0 +1,14 @@
+
+.env
+__pycache__/
+venv/
+.idea/
+playwright-env/
+allure-results/
+
+screenshots/
+logs/
+care/screenshot_path/
+care/infrastructure_bo/screenshot_path/
+
+bo_sanity/
